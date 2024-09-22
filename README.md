@@ -92,10 +92,4 @@ You can extend this project in several ways:
 
 Contributions to improve the AI Music Generator are welcome! Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-We hope you enjoy creating unique musical compositions with the AI Music Generator!
