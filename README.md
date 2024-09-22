@@ -21,8 +21,3 @@ This Music Generator is a web application that creates music based on user-selec
 - Tone.js (included in the project)
 - Any additional libraries mentioned in `requirements.txt`
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ai-music-generator.git
-   cd ai-music-generator
